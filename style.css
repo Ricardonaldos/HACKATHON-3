@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: #1687A0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    width: 960px;
+    height: 578px;
+    padding: 2em;
+}
+
+section div{
+    width: 363px;
+    height: 59px;
+    background-color: white;
+    padding: 1.2em;
+    margin: 15px;
+    
+}
+
+.descripcion{
+
+    width: 759px;
+    height: 112px;
+}
+div{
+    display:inline-block;
+    
+}
+h2 {
+   text-align: center;
+   font-weight: 700;
+   font-size: 36px;
+   color: red;
+   margin: 0.5em;
+   margin-left: -2.5em;
+  
+}
+.boton{
+    align-content: center;
+    text-align: center;
+    width: 167px;
+    height: 56px;
+    background-color: #233451;
+   margin-left: 19em;
+    
+}
+.boton input{
+    color: white;
+    background-color: #233451;
+    font-size: 18px;
+    
+}
+
+.content input{
+    border: none;
+}
